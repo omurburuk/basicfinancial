@@ -1,2 +1,11 @@
-.vs/
-/.vs/AssessmentCrud/v17/.suo
+/.vs 
+/.vs/AssessmentCrud/DesignTimeBuild/.dtbcache.v2
+/.vs/AssessmentCrud/FileContentIndex/1dbe28b2-ec85-455c-8ead-76c9b02fda6e.vsidx
+/.vs/AssessmentCrud/FileContentIndex/393ff83b-4d1b-4fff-a03c-024fb1086c31.vsidx
+/.vs/AssessmentCrud/FileContentIndex/c8ef2d1c-4042-4899-88b7-ec7a164704f0.vsidx
+/.vs/AssessmentCrud/FileContentIndex/dfb733a9-f065-4ac9-b5a5-253d0cd54fca.vsidx
+/.vs/ProjectEvaluation/assessmentcrud.metadata.v7.bin
+/.vs/ProjectEvaluation/assessmentcrud.projects.v7.bin
+/BasicFinancial/obj/Debug/net6.0
+/BasicFinancial.Data/obj
+/.vs/AssessmentCrud/v17/.futdcache.v2
